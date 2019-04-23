@@ -1,0 +1,35 @@
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 2px;
+  }
+
+.1 {
+	background-color:#000
+}
+
+.center2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 1px;
+  color: white;
+  position: relative;
+  top:15px;
+}
+
+ .center3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-top: 2px;
+  color: white;
+  position: relative;
+  top:1px;
+  margin-bottom:1px;
+ }
